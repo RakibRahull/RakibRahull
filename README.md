@@ -1,10 +1,8 @@
-(https://scontent.xx.fbcdn.net/v/t39.30808-6/362267468_1584653285395994_2016954220161605221_n.jpg?stp=cp6_dst-jpg_p160x160&_nc_cat=106&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=isLycZrvMbkAX-CpUdb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAhQ-BP_Re7dM7HUvkNtk8SzDRdItK6fvG6wiMxKro8sQ&oe=65DDA011)
+![Trying hard to be a web developer......](https://scontent.xx.fbcdn.net/v/t39.30808-6/362267468_1584653285395994_2016954220161605221_n.jpg?stp=cp6_dst-jpg_p160x160&_nc_cat=106&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=isLycZrvMbkAX-CpUdb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAhQ-BP_Re7dM7HUvkNtk8SzDRdItK6fvG6wiMxKro8sQ&oe=65DDA011)
 
 
 ### Hi there 👋, I am Rahul
 #### Trying hard to be a web developer......
-![Trying hard to be a web developer......](https://scontent.xx.fbcdn.net/v/t39.30808-6/362267468_1584653285395994_2016954220161605221_n.jpg?stp=cp6_dst-jpg_p160x160&_nc_cat=106&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=isLycZrvMbkAX-CpUdb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAhQ-BP_Re7dM7HUvkNtk8SzDRdItK6fvG6wiMxKro8sQ&oe=65DDA011)
-
 
 Skills:  HTML / CSS / C / C++
 
